@@ -8,7 +8,7 @@ permalink: /about/
 </p>
 
 
-Programming Club (or PClub) is a community of students highly enthusiastic about coding, ethical hacking, Web Designing and all other aspects of programming. We are a team currently of 5 coordinators (pre-final year), and 5 tech leads (pre-final year) and 35 secretaries.
+Programming Club (or PClub) is a community of students highly enthusiastic about coding, ethical hacking, Web Designing and all other aspects of programming. We are a team currently of 5 coordinators (pre-final year), 5 tech leads (pre-final year) and 35 secretaries.
 
 Our Instagram [page](https://www.instagram.com/pclubiitk/) boasts around 4K followers and is a hub for programming-related posts and information. We use it to share exciting updates, promote events, engage with our community, and put out informative posts that keep our followers up-to-date on the latest in the programming world.
 
